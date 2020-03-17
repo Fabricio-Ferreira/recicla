@@ -1,0 +1,22 @@
+name: Recicla
+description: Aplicativo que tem como finalidade informar sobre coleta seletiva
+version: 1.0.0
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  dio: ^3.0.9
+  rxdart: ^0.23.1
+  bloc_pattern: ^2.5.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  mockito: ^4.1.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
