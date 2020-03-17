@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:recicla/app/modules/home/home_module.dart';
+
+import 'modules/home/home_module.dart';
 
 class AppWidget extends StatelessWidget {
   @override
